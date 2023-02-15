@@ -6,7 +6,7 @@ A Csv Editing Tool that allows you to create a brawler in a few steps
 -Texts_patch.csv file
 
 ## Installation
-`Python3 csvbrawltool.py`
+`Python3 CsvBrawlerMaker.py`
 
 ## Instructiona
 3. Insert the name of the Text_Patch.csv file
