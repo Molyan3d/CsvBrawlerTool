@@ -6,9 +6,10 @@ A Csv Editing Tool that allows you to create a brawler in a few steps
 -Texts_patch.csv file
 
 ## Installation
-`Python3 CsvBrawlerMaker.py`
+`Python3 csvbrawltool.py`
 
 ## Instructiona
 3. Insert the name of the Text_Patch.csv file
 4. Specify the name that you want to assing to the TID
-5. Compile the rest with the remaining informations 
+5. Compile the rest of the questions
+6. The script will automatically export the file for you
