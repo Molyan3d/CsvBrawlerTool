@@ -2,10 +2,11 @@
 A Csv Editing Tool that allows you to create a brawler in a few steps
 
 ## How to use it?
-Python 3.0 or higher
+-Python 3.0 or higher
+-Texts_patch.csv file
 
 ## Installation
-`Python3 CsvBrawlerMaker.py`
+`Python3 csvbrawltool.py`
 
 ## Instructiona
 3. Insert the name of the Text_Patch.csv file
